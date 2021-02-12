@@ -10,7 +10,7 @@ public class factors {
             if (x % i == 0) {
                 System.out.print(i + ", ");
             }
+            scan.close();
         }
-        scan.close();
     }
 }
