@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch simpleInheritance",
+            "request": "launch",
+            "mainClass": "simpleInheritance",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bresenham",
+            "request": "launch",
+            "mainClass": "Bresenham",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HiLo",
+            "request": "launch",
+            "mainClass": "HiLo",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleInheritance",
+            "request": "launch",
+            "mainClass": "SimpleInheritance",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagrams",
+            "request": "launch",
+            "mainClass": "anagrams",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch areaofcircle",
+            "request": "launch",
+            "mainClass": "areaofcircle",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ascendingnumbers",
+            "request": "launch",
+            "mainClass": "ascendingnumbers",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch character",
+            "request": "launch",
+            "mainClass": "character",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch currentdatetime",
+            "request": "launch",
+            "mainClass": "currentdatetime",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factors",
+            "request": "launch",
+            "mainClass": "factors",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch neon",
+            "request": "launch",
+            "mainClass": "neon",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddeven",
+            "request": "launch",
+            "mainClass": "oddeven",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch primebetweennum",
+            "request": "launch",
+            "mainClass": "primebetweennum",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch speedoflight",
+            "request": "launch",
+            "mainClass": "speedoflight",
+            "projectName": "java programs_d159c9dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "java programs_d159c9dd"
+        }
+    ]
+}
